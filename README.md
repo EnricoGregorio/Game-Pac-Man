@@ -2,7 +2,7 @@
  Jogo Pac-Man feito em Java!
 
 (PT-BR)
-#Teclas de comando
+# Teclas de comando
 
 * **A** ou **←** para andar para a **esquerda**.
 
@@ -13,7 +13,7 @@
 * **S** ou **↓** para andar para **baixo**.
 
 (EN-US)
-#Command keys
+# Command keys
 
 * **A** or **←** to walk to the **left**.
 
