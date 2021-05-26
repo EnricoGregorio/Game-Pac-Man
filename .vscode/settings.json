@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "res"
+    ],
+    "cSpell.words": [
+        "MEGACOIN",
+        "Minicoin",
+        "baos",
+        "embaixo",
+        "lightmap",
+        "maskh",
+        "maskw",
+        "megacoins",
+        "mheight",
+        "mwidth",
+        "pixelart",
+        "pixelfont",
+        "rotacionar",
+        "xnext",
+        "xprev",
+        "ynext",
+        "yoff",
+        "yprev"
+    ]
+}
