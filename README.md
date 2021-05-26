@@ -11,7 +11,7 @@
 * **W** ou **↑** para andar para **cima**.
 
 * **S** ou **↓** para andar para **baixo**.
-
+***
 (EN-US)
 # Command keys
 
